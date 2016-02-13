@@ -10,7 +10,7 @@ namespace WindowsFormsApplication1
     {
         /// <summary>
         /// Punto di ingresso principale dell'applicazione.
-        /// </summary>
+        /// </summary> 
         [STAThread]
         static void Main()
         {
